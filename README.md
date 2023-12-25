@@ -24,3 +24,21 @@ These patterns concentrate on communication between objects, how they interact, 
 3. Command Pattern: Encapsulates a request as an object, thereby allowing for parameterization of clients with queues, requests, and operations.
 4. Chain of Responsibility Pattern: Passes a request along a chain of handlers, each processing the request or passing it to the next handler in the chain.
 5. State Pattern: Allows an object to alter its behavior when its internal state changes.
+
+## Types :
+
+| Creational | Structural | Behavioral |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:----------:|
+| [1. Singleton Pattern ]() | [1. Adapter Pattern ]() | [1. Observer Patter ]() |
+
+## Contributor :  
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/DhirajGadekar"><img src="https://avatars.githubusercontent.com/u/111908836?v=4" width="100px;" alt="Dhiraj Gadekar"/><br/><sub><b>Dhiraj Gadekar</b></sub></a><br/>
+</tr>
+</table>
+
+## Feedback
+
+If you have any feedback, please reach out to us at dhirajgadekar.work@gmail.com
