@@ -41,4 +41,4 @@ These patterns concentrate on communication between objects, how they interact, 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at dhirajgadekar.work@gmail.com
+If you have any feedback, please reach out to us at **<a href="https://mail.google.com/mail/u/3/#inbox?compose=CllgCJTHWNbjZQFnRQlzTNlRVSXcTdxfZVrbtCvTZWPTxTWwgDHTpnckBglPXzNWwkPgMBkrZSq" target="_blank">Email</a>**
