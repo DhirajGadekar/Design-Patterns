@@ -29,7 +29,7 @@ These patterns concentrate on communication between objects, how they interact, 
 
 | Creational | Structural | Behavioral |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:----------:|
-| [1. Singleton Pattern ]() | [1. Adapter Pattern ]() | [1. Observer Patter ]() |
+| [1. Singleton Design Pattern ](https://github.com/DhirajGadekar/Design-Patterns/tree/main/Creational%20Design%20Pattern/SingletonDesignPattern) | [1. Adapter Pattern ]() | [1. Observer Patter ]() |
 
 ## Contributor :  
 
