@@ -29,7 +29,8 @@ These patterns concentrate on communication between objects, how they interact, 
 
 | Creational | Structural | Behavioral |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------:|:----------:|
-| [1. Singleton Design Pattern ](https://github.com/DhirajGadekar/Design-Patterns/tree/main/Creational%20Design%20Pattern/SingletonDesignPattern) | [1. Adapter Pattern ]() | [1. Observer Patter ]() |
+| [1. Singleton Design Pattern ](https://github.com/DhirajGadekar/Design-Patterns/tree/main/Creational%20Design%20Pattern/SingletonDesignPattern) |  |  |
+| [2. Factory Design Pattern ](https://github.com/DhirajGadekar/Design-Patterns/tree/main/Creational%20Design%20Pattern/FactoryDesignPattern) |  |  |
 
 ## Contributor :  
 
@@ -38,6 +39,7 @@ These patterns concentrate on communication between objects, how they interact, 
     <td align="center"><a href="https://github.com/DhirajGadekar"><img src="https://avatars.githubusercontent.com/u/111908836?v=4" width="100px;" alt="Dhiraj Gadekar"/><br/><sub><b>Dhiraj Gadekar</b></sub></a><br/>
 </tr>
 </table>
+Contributions are welcome! If you have any suggestions, improvements, or additional examples related to the Singleton pattern, feel free to open an issue or submit a pull request.
 
 ## Feedback
 
