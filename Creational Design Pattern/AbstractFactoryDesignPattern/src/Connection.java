@@ -1,4 +1,0 @@
-interface Connection {
-    
-    void connect();
-}
